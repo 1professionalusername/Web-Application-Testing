@@ -1,6 +1,5 @@
 import React, { useState } from 'react';
 import './App.css';
-
 import Dashboard from './Dashboard.jsx';
 import Display from './Display.jsx';
 
